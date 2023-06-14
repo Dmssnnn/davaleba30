@@ -42,7 +42,7 @@ const massiveOfObjects = [
 ]
 const onlyNamesMassive = [];
 // for ( i = 0 ; i < massiveOfObjects.length; i++){
-//     onlyNamesMassive.push(massiveOfObjects[i].name);
+//     onlyNamesMassive.push(massiveOfObjects[i].name)j;
 //     const map
 // }
 const names = massiveOfObjects.map (massiveOfObjects => {
